@@ -1,0 +1,65 @@
+h1 {
+color : #1F0318;
+}
+
+body {
+	background-color: #EFF8E2;
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 100px;   
+text-align: center;
+font-family: 'Roboto Slab', serif;
+}
+
+
+
+.big-picture {
+	width: 500px;
+	heigh: 500px;	
+	object-fit: cover; 
+}
+
+.square-picture {
+	width: 65%;
+	heigh: 500px;	
+	object-fit: cover; 
+}
+
+.center-content{
+	text-align: center;
+}
+
+.video-center {
+	text-align: center;
+}
+
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+div {
+	background-color: #B3D1A9;
+	padding: 100px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	border: 
+}
+
+
+.link-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+	a {color: #1F0318;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
